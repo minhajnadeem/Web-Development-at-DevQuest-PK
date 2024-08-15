@@ -1,0 +1,51 @@
+Welcome to My Sample HTML Page 
+
+This page contains various HTML tags 
+
+This is a paragraph inside a div. HTML tags such as span, div, and others are used to structure content. 
+
+Below, you'll find a form, a table, an embedded video, sodas iframe. 
+
+Sign Up Form 
+
+Name
+
+Please enter your name
+
+Email
+
+Please enter your email
+
+Message   
+
+Please enter your message
+
+Submit 
+
+Sample Table 
+
+Name 
+
+John Doel 
+
+Email
+
+john@example.com 
+
+Message 
+Hello, world!
+
+Jane Doe 
+
+jane@example.com 
+
+Nice to meet you! 
+
+Sample Video 
+
+Watch the above video for more information.
+
+Sample iframe 
+
+This iframe embeds content from another site. 
+

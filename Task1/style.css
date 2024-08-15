@@ -1,0 +1,11 @@
+table , tr, th{
+    border: 1px solid black;
+}
+video{
+    width: 1080px;
+    height: 562px;
+}
+iframe{
+    width: 512px;
+    height: 512px;
+}
