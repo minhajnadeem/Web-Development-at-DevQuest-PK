@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+/* Profile Image Styling */
+.Profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 20px 0;
+}
+
+/* Description Styling */
+.Description {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+/* Navigation Menu Styling */
+.App-nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.App-nav ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.App-nav ul li a {
+  text-decoration: none;
+  color: #61dafb;
+  font-weight: bold;
+}
+
+/* Section Styling */
+section {
+  margin: 50px 0;
+}
+
+h2 {
+  color: #3498db;
+}
